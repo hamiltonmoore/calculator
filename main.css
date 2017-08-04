@@ -40,4 +40,5 @@ body {
 
 .display {
     flex-basis: 73.06%;
+    overflow: scroll;
 }
