@@ -30,6 +30,10 @@ body {
     align-items: center;
 }
 
+.styling:hover {
+    background-color: #74EF83;
+}
+
 .operator {
     background-color: #74EF83;
 }
