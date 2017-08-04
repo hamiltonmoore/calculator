@@ -22,7 +22,7 @@ equals.addEventListener("click", function (e) {
     display.innerHTML = eval(display.innerHTML);
     results.push(display.innerHTML);
 });
-arrow_Up.addEventListener("click", function (e) {
-    // history = display.innerHTML;
-});
+// arrow_Up.addEventListener("click", function (e) {
+//     results = display.innerHTML;
+// });
 
